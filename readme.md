@@ -4,6 +4,17 @@ Creating storage, uploading files video,image, audio etc., after uploading gener
 
 # how to make it run
 
-### first unzip the folder and do npm i
+clone the repo do 
+```
+npm i
+```
 
-### then server will start then you can start quering
+then after instaling node packages use
+```
+npm start
+```
+
+then server will start listening to queries.
+
+please find the apis and those docs in api's.md file 
+
