@@ -1,0 +1,8 @@
+Done: - /create_new_storage : to store token in cookie to identify uploaded file
+Done: - /upload_file : to upload file
+Done: - /my_upload_file : get list of uploaded file
+Done: - /text_file_to_audio : to convert text to audio
+Done: - /merge_image_and_audio : to merge image + audio to video
+Done: - /merge_video_and_audio : to merge video + audio to video
+Done:-  /merge_all_video : to merge list of video
+Done: - /download_file : to download any file from server
